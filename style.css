@@ -59,3 +59,32 @@ body {
     text-align: center;
     color: white;
 }
+
+.section1 h1{
+    font-size: 90px;
+}
+
+.section1 h2{
+    font-size: 50px;
+}
+
+.section1 h3{
+    font-size: 35px;
+}
+
+.who-are-we {
+    height: 1000px;
+    color: white;
+}
+
+.intro{
+    color: black;
+    width: 40%;
+    float: right;
+}
+
+.intro h2 {
+    margin-top: 30%;
+    font-size: 50px;
+    
+}
